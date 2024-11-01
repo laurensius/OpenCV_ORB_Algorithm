@@ -1,0 +1,17 @@
+{
+  "installationFolder": "/Users/renzcybermedia/Documents/All_About_Laurensius/Software_Development/Android/TestOpenCVAndroid/OpenCV/build/intermediates/prefab_package/debug/prefab",
+  "gradlePath": ":OpenCV",
+  "packageInfo": {
+    "packageName": "OpenCV",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "/Users/renzcybermedia/Documents/All_About_Laurensius/Software_Development/Android/TestOpenCVAndroid/OpenCV/native/jni/include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

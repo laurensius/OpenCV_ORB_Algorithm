@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test OpenCV Android</string>
+    <string name="camera_preview_with_orb_keypoints">Camera Preview with ORB Keypoints</string>
+</resources>
